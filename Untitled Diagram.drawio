@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T18:02:34.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="MGl1ev1-xaysjUWq29W2" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T18:04:31.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="sFkqwYEFiqubSe__opys" version="14.6.13" type="github">
   <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
     <mxGraphModel dx="2029" dy="1031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -292,13 +292,16 @@
           <mxGeometry x="1650" y="535" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7-8rVvSdNKjw__y4Cbuu-12" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl665a_aruba_6300f_48_port_1gbe_class_4_poe_and_4_port_sfp56_switch;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="880" width="300" height="30" as="geometry" />
+          <mxGeometry x="1260" y="880" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7-8rVvSdNKjw__y4Cbuu-13" value="" style="edgeStyle=none;html=1;labelBackgroundColor=none;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;exitX=0.839;exitY=0.376;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="7-8rVvSdNKjw__y4Cbuu-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1851.089840788476" y="749.9999999999998" as="targetPoint" />
             <mxPoint x="1383.8999999999996" y="893.28" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7-8rVvSdNKjw__y4Cbuu-14" value="&lt;font style=&quot;font-size: 26px&quot;&gt;Switch D-LINK 48 Portas&lt;br&gt;DES-120-28&lt;br&gt;IP: 192.168.1.210&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1371" y="932" width="300" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
