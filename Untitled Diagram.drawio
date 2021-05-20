@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T15:17:37.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="linxskGPNWBCWM8Qlf6k" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T15:18:01.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="EH5P4QeqSW39B3_EugLK" version="14.6.13" type="github">
   <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
     <mxGraphModel dx="2840" dy="1444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -189,8 +189,8 @@
         <mxCell id="YF6pKjscoDSc8qck96Aq-34" value="" style="shape=mxgraph.rack.ibm.ibm_x3530_m4;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="200" y="700" width="330" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YF6pKjscoDSc8qck96Aq-35" value="&lt;font style=&quot;font-size: 26px&quot;&gt;SERVIDORES IBM&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="765" width="240" height="20" as="geometry" />
+        <mxCell id="YF6pKjscoDSc8qck96Aq-35" value="&lt;font style=&quot;font-size: 26px&quot;&gt;SERVIDORES IBM DESATIVADOS&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="755" width="430" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YF6pKjscoDSc8qck96Aq-36" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="YF6pKjscoDSc8qck96Aq-33" target="YF6pKjscoDSc8qck96Aq-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
