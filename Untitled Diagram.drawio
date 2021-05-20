@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T17:42:39.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="qL62tkFBsuPD_k1gbDWU" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T17:44:43.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="_PRp6IRW345VrrdI89U4" version="14.6.13" type="github">
   <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
     <mxGraphModel dx="979" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -319,16 +319,16 @@
         <mxCell id="YF6pKjscoDSc8qck96Aq-88" value="" style="points=[[0.005,0.09,0],[0.08,0,0],[0.76,0.25,0],[1,0.92,0],[0.91,0.995,0],[0.57,0.995,0],[0.045,0.955,0],[0.005,0.43,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.3g_4g_indicator;fillColor=#005073;strokeColor=none;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1850" y="260" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YF6pKjscoDSc8qck96Aq-94" value="Maquinas Virtuais" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="1250" width="330" height="270" as="geometry">
+        <mxCell id="YF6pKjscoDSc8qck96Aq-94" value="Maquinas Virtuais" style="swimlane;fontSize=26;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="1241" width="330" height="280" as="geometry">
             <mxRectangle x="1890" y="1250" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YF6pKjscoDSc8qck96Aq-95" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="YF6pKjscoDSc8qck96Aq-94">
-          <mxGeometry x="10" y="40" width="25" height="40" as="geometry" />
+          <mxGeometry x="10" y="49" width="25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YF6pKjscoDSc8qck96Aq-96" value="&lt;b style=&quot;font-size: 26px&quot;&gt;ISSABEL (Voip)&lt;br&gt;IP: 192.168.1.27&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="YF6pKjscoDSc8qck96Aq-94">
-          <mxGeometry x="60" y="40" width="210" height="40" as="geometry" />
+          <mxGeometry x="60" y="49" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YF6pKjscoDSc8qck96Aq-98" value="&lt;b style=&quot;font-size: 26px&quot;&gt;SANDBOX&lt;br&gt;Desligada&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="YF6pKjscoDSc8qck96Aq-94">
           <mxGeometry x="90" y="120" width="150" height="40" as="geometry" />
