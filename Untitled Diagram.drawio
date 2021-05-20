@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T12:26:33.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="FAm-KCa_NVQU8aBsvObY" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T12:32:29.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="sNLZWczI5SNoJAJhalwW" version="14.6.13" type="github">
   <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
     <mxGraphModel dx="2367" dy="1203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -292,7 +292,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7-8rVvSdNKjw__y4Cbuu-14" value="&lt;font style=&quot;font-size: 26px&quot;&gt;Switch D-LINK 48 Portas&lt;br&gt;DES-120-28&lt;br&gt;IP: 192.168.1.210&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1371" y="932" width="300" height="80" as="geometry" />
+          <mxGeometry x="1390" y="939.41" width="300" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YF6pKjscoDSc8qck96Aq-1" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="YF6pKjscoDSc8qck96Aq-2" target="7-8rVvSdNKjw__y4Cbuu-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -305,6 +305,18 @@
         </mxCell>
         <mxCell id="YF6pKjscoDSc8qck96Aq-3" value="&lt;font style=&quot;font-size: 26px&quot;&gt;Servidor Hyper-v RIELBLDSRV0003&lt;br&gt;IP: 192.168.1.132&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1215" y="1269.41" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YF6pKjscoDSc8qck96Aq-6" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="1084.41" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YF6pKjscoDSc8qck96Aq-7" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="YF6pKjscoDSc8qck96Aq-6" target="7-8rVvSdNKjw__y4Cbuu-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1434.1666666666665" y="1160" as="sourcePoint" />
+            <mxPoint x="1382.166666666667" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YF6pKjscoDSc8qck96Aq-8" value="&lt;font style=&quot;font-size: 26px&quot;&gt;Servidor DELL POWEREDGE T410&lt;br&gt;SERVIDOR01&lt;br&gt;IP: 192.168.1.80&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="1215" width="430" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
