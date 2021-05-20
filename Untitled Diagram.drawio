@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T15:13:06.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="GsRtK-KL6xyWXKY7vb8W" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T15:13:42.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="P5NFKvunShaBpXNJMdYx" version="14.6.13" type="github">
   <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
     <mxGraphModel dx="2840" dy="1444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -103,6 +103,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1680" y="1150" as="sourcePoint" />
             <mxPoint x="1590" y="1180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1655" y="920" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YF6pKjscoDSc8qck96Aq-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
@@ -118,6 +121,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1434.1666666666665" y="1160" as="sourcePoint" />
             <mxPoint x="1500" y="900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1975" y="900" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YF6pKjscoDSc8qck96Aq-8" value="&lt;font style=&quot;font-size: 26px&quot;&gt;Servidor DELL POWEREDGE T410&lt;br&gt;SERVIDOR01&lt;br&gt;IP: 192.168.1.80&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
